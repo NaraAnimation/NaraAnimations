@@ -1,0 +1,23 @@
+.tombol-container {
+  display: flex;
+}
+
+button {
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+}
+
+.container {
+  
+  padding: 20px; /* Jarak antara border dengan konten dalam */
+  display: flex;
+  justify-content: space-around;
+}
+.kotak {
+  width: 300px;
+  height: 300px;
+  border: 1px solid gray; /* Border untuk kotak kecil */
+  text-align: center;
+}
